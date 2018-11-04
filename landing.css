@@ -1,0 +1,58 @@
+.txtelts h3{
+	font-family: Verdana;
+	font-size: 25px;
+	color: white;
+}
+.txtelts h2{
+	font-family:Verdana;
+	font-size: 25px;
+	color:white;
+}
+ .txtelts p{
+	font-family: Verdana;
+	font-size: 15px;
+	margin-left:270px;
+	margin-right: 270px;
+	color:white;
+}
+body {
+	
+	background-color:#00162a;
+	border: 50px solid #008080;
+	border-top: none;
+	/*color:white;
+	font-family: Verdana;
+	font-size: 25px;*/
+
+		
+}
+
+
+.formelts{
+	padding-left: 40%;
+	padding-right: 40%;
+}
+button{
+	height: 80px;
+	width: 140px;
+	background-color: orange;
+	border-radius: 30%;
+	align-items: center;
+	font-size: 20px;
+	font-family: Verdana;
+	margin-left: 80px;
+
+
+}
+.frm{
+	height: 30px;
+
+}
+label{
+	font-family: Verdana;
+	font-size: 15px;
+	color:white;
+	display: block;
+	text-align: center;
+
+}
